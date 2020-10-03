@@ -9,5 +9,5 @@ The following courses are done to gain experience with SQL, Data and Cloud platf
 
 3. 
 
-4. Business Analyst Course with R 2020
+4. [Business Analyst Course with R 2020]()
 
